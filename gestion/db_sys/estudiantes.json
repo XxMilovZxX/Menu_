@@ -1,0 +1,47 @@
+{
+    "20998563-7": {
+        "identificacion": [
+            "20998563-7",
+            "52349024"
+        ],
+        "nombre": "Juan Martinez",
+        "calificaciones": [
+            {
+                "curso": "4567",
+                "nota": 5.6
+            }
+        ],
+        "cursos": [
+            "4567"
+        ]
+    },
+    "22345653-5": {
+        "identificacion": [
+            "22345653-5",
+            "3452"
+        ],
+        "nombre": "Juan Papon",
+        "calificaciones": [
+            {
+                "curso": "5372",
+                "nota": 5.6
+            },
+            {
+                "curso": "5372",
+                "nota": 6.2
+            }
+        ],
+        "cursos": [
+            "5372"
+        ]
+    },
+    "22345654-6": {
+        "identificacion": [
+            "22345654-6",
+            "5832"
+        ],
+        "nombre": "Pedro Alahama",
+        "calificaciones": [],
+        "cursos": []
+    }
+}

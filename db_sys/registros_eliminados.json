@@ -1,0 +1,34 @@
+{
+    "estudiantes": [
+        {
+            "fecha": "2024-11-11 22:56:32",
+            "datos": {
+                "rut": "43654890-3",
+                "matricula": "45239876",
+                "nombre": "Peo Martinez",
+                "cursos": [],
+                "calificaciones": {}
+            }
+        },
+        {
+            "fecha": "2024-11-12 10:23:51",
+            "datos": {
+                "rut": "23543653-7",
+                "matricula": "56745435",
+                "nombre": "Juanka Especialon",
+                "cursos": [],
+                "calificaciones": {}
+            }
+        }
+    ],
+    "cursos": [
+        {
+            "fecha": "2024-11-12 10:22:58",
+            "datos": {
+                "codigo": "54267456",
+                "nombre": "Ciencias",
+                "estudiantes": []
+            }
+        }
+    ]
+}

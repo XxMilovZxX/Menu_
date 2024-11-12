@@ -1,0 +1,56 @@
+{
+    "22657983-6": {
+        "rut": "22657983-6",
+        "matricula": "43547654",
+        "nombre": "San Martin Copenahue",
+        "cursos": [
+            "Lenguaje"
+        ],
+        "calificaciones": {
+            "Lenguaje": [
+                5.2
+            ]
+        }
+    },
+    "24657947-5": {
+        "rut": "24657947-5",
+        "matricula": "45326578",
+        "nombre": "Peralta Jose Valenzuela",
+        "cursos": [
+            "547842"
+        ],
+        "calificaciones": {
+            "547842": [
+                5.3,
+                5.6,
+                6.3
+            ]
+        }
+    },
+    "34543645-5": {
+        "numero_identificacion_nombre": [
+            "34543645-5",
+            "54349768",
+            "Pato Martinez"
+        ],
+        "cursos": [
+            "Lenguaje"
+        ],
+        "calificaciones": {
+            "Lenguaje": [
+                5.6,
+                7.0,
+                4.3
+            ]
+        }
+    },
+    "43567983-5": {
+        "numero_identificacion_nombre": [
+            "43567983-5",
+            "53467832",
+            "Calapacho Contrera"
+        ],
+        "cursos": [],
+        "calificaciones": {}
+    }
+}

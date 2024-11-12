@@ -1,0 +1,11 @@
+{
+    "nombre": "APLAPLAC",
+    "sede_principal": "Concepcion",
+    "sedes": [
+        "Concepcion",
+        "Material",
+        "Biblioteca",
+        "si"
+    ],
+    "info_adicional": {}
+}
